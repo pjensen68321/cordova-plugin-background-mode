@@ -1,4 +1,6 @@
 
+Original from <a href="https://github.com/katzer/cordova-plugin-background-mode">katzer</a>
+
 <p align="right">
     <a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">EXAMPLE :point_right:</a>
 </p>
