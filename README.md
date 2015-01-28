@@ -1,6 +1,8 @@
 
 Original from <a href="https://github.com/katzer/cordova-plugin-background-mode">katzer</a>
 
+All ios background modes can be seen <a href="https://developer.apple.com/library/ios/documentation/General/Reference/InfoPlistKeyReference/Articles/iPhoneOSKeys.html">here</a>, to change the background modes, edit line 49 of plugin.xml to suite your needs.
+
 <p align="right">
     <a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">EXAMPLE :point_right:</a>
 </p>
